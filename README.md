@@ -1,5 +1,5 @@
 # QuickCure | HealthPath Initiative
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png)
+![](https://github.com/nishatmahzabin/-Digital-Healthcare-Appointment-Platform/blob/main/Screenshots/Enterface.png)
 It helps patients book appointments with doctors through a website instead of going to a clinic or hospital in person. Patients can search for doctors based on their specialty, check their weekly schedule, and choose a suitable time to request an appointment.
 
 Doctors can then see all appointment requests and manage their schedule easily.
@@ -19,14 +19,14 @@ Patient – searches for doctors and books appointments
     
     View patients' details;
     
-    View the booking of patients;
+    View the booking of patients.
     
     
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)
+![](https://github.com/nishatmahzabin/-Digital-Healthcare-Appointment-Platform/blob/main/Screenshots/Admin%20Page.png)
     
  
  
-  2.Doctors
+  2. Doctors
   
   
     View their Appointment;
@@ -39,14 +39,14 @@ Patient – searches for doctors and books appointments
     
     edit account settings;
     
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(9).png)
+![](https://github.com/nishatmahzabin/-Digital-Healthcare-Appointment-Platform/blob/main/Screenshots/Doctor%20Page.png)
     
   3.Patiens(Clients)
   
   
-    make appointment online;
+    make an appointment online;
     
-    create accounts themslves;
+    create accounts themselves;
     
     view their old booking;
     
@@ -55,26 +55,20 @@ Patient – searches for doctors and books appointments
     edit account settings;
     
     
-![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  
+![](https://github.com/nishatmahzabin/-Digital-Healthcare-Appointment-Platform/blob/main/Screenshots/Patient%20Page.png)  
     
-If you are Admin,doctor or patient ,only have one page to login :)
+If you are an Admin, doctor, or patient, you only have one page to log in :)
 
   
 -----------------------------------------------
 
 
 
-
-
-
-
-DATABASE NAME: 'edoc'
-
-# BUILDIN USER ACCOUNTS OF THIS PROJECT
+# BUILDING USER ACCOUNTS OF THIS PROJECT
 
 ADMIN EMAIL:		admin@quickcure.com
 
-ADMNIN PASSWORD:	123
+ADMIN PASSWORD:	123
 
 
 DOCTOR EMAIL:		doctor@quickcure.com
